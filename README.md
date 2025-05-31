@@ -1,1 +1,3 @@
+PROGRAMMAZIONE DI UNA SCHEDA STM32 
+PER IL MONITORAGGIO DELLA TEMPERATURA E UMIDITA'
 Progetto Universitario del Corso Fondamenti di Elettronica
